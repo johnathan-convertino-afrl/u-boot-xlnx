@@ -18,6 +18,7 @@
 #define CONFIG_ZYNQ_GEM_I2C_MAC_OFFSET	0xFA
 #define CONFIG_DISPLAY
 #define CONFIG_I2C_EDID
+#define CONFIG_OF_EMBED
 
 #include <configs/zynq-common.h>
 
